@@ -34,6 +34,7 @@
   "dependencies": {
     "classnames": "^2.3.2",
     "focus-visible": "^5.2.0",
+    "react-chrono": "^1.19.1",
     "styled-components": "^5.3.5"
   },
   "peerDependencies": {
